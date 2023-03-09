@@ -9,3 +9,4 @@ AUT - https://github.com/cloudgrey-io/the-app/releases
 - [Execute Script Overloading](https://github.com/lana-20/appium-execute-script-overloading)
 - [Touch Actions](https://github.com/lana-20/appium-touch-actions)
 - [Android Activity Management](https://github.com/lana-20/android-activity-management)
+- [Web App Testing](https://github.com/lana-20/web-app-testing)
