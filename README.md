@@ -4,6 +4,7 @@
 AUT - https://github.com/cloudgrey-io/the-app/releases
 
 - [Architecture](https://github.com/lana-20/appium-architecture)
+- [Types of Mobile Apps](https://github.com/lana-20/mobile-app-types)
 - [Device Management](https://github.com/lana-20/appium-device-management)
 - [App Management](https://github.com/lana-20/appium-app-management)
 - [Execute Script Overloading](https://github.com/lana-20/appium-execute-script-overloading)
