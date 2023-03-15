@@ -16,5 +16,8 @@ AUT - https://github.com/cloudgrey-io/the-app/releases
 - [Web App Testing](https://github.com/lana-20/web-app-testing)
 - [Hybrid App Testing](https://github.com/lana-20/hybrid-app-testing)
 - [Setting Up App State](https://github.com/lana-20/appium-state-setup)
+- [Running Tests in Parallel in Theory](https://github.com/lana-20/appium-parallel-testing-theory)
+
+
 
 - [Fast, Repeatable, and Reliable Tests in Appium](https://github.com/lana-20/appium-best-practices)
