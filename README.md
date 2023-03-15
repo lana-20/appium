@@ -1,5 +1,8 @@
 # appium
 
+### Automated Testing
+
+- [Automation vs Manual Testing](https://github.com/lana-20/automation-vs-manual-testing)
 
 
 ### Mobile App Automation Using Appium
