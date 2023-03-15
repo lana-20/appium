@@ -19,6 +19,7 @@ AUT - https://github.com/cloudgrey-io/the-app/releases
 - [From Automation to Testing](https://github.com/lana-20/appium-automation-to-testing)
 - [Deciding What to Test](https://github.com/lana-20/appium-what-to-test)
 - [Test Runners and Frameworks](https://github.com/lana-20/appium-test-runners-frameworks)
+- [The Page Object Model in Theory](https://github.com/lana-20/appium-pom-theory)
 
 
 
