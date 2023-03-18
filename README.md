@@ -3,12 +3,21 @@
 ### Automated Testing
 
 - [Automation vs Manual Testing](https://github.com/lana-20/automation-vs-manual-testing)
-- [The Landscape of Mobile Testing Tools](https://github.com/lana-20/mobile-testing-tools)
 
+### Mobile Testing Overview
+
+- [The Landscape of Mobile Testing Tools](https://github.com/lana-20/mobile-testing-tools)
+- [Appium Overview](https://github.com/lana-20/appium-overview)
+
+- [Appium Architecture](https://github.com/lana-20/appium-architecture)
+
+
+### WebDriver Automation Architecture
+
+- [Appium's Protocol Extensions]()
 
 ### Mobile App Automation Using Appium
 
-- [Architecture](https://github.com/lana-20/appium-architecture)
 - [AUT](https://github.com/cloudgrey-io/the-app/releases)
 - [Types of Mobile Apps](https://github.com/lana-20/mobile-app-types)
 - [Configuring and Launching Mobile Sessions](https://github.com/lana-20/configure-launch-mobile-sessions)
