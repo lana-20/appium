@@ -3,6 +3,7 @@
 ### Automated Testing
 
 - [Automation vs Manual Testing](https://github.com/lana-20/automation-vs-manual-testing)
+- [The Landscape of Mobile Testing Tools](https://github.com/lana-20/mobile-testing-tools)
 
 
 ### Mobile App Automation Using Appium
