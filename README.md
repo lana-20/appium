@@ -13,7 +13,8 @@
 
 ### WebDriver Automation Architecture
 
-- [Appium's Protocol Extensions]()
+- [Appium's Protocol Extensions](https://github.com/lana-20/appium-webdriver-protocol-extensions)
+- [WebDriver and Appium clients]()
 
 ### Mobile App Automation Using Appium
 
