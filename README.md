@@ -19,7 +19,7 @@
 
 ### Installation and Setup
 
-- [Java Setup - TBD]()
+- [Java Setup](https://github.com/lana-20/java-setup)
 - [Appium Setup - TBD]()
 - [Project Setup - TBD]()
 
