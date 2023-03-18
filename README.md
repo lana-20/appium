@@ -8,7 +8,6 @@
 
 - [The Landscape of Mobile Testing Tools](https://github.com/lana-20/mobile-testing-tools)
 - [Appium Overview](https://github.com/lana-20/appium-overview)
-
 - [Appium Architecture](https://github.com/lana-20/appium-architecture)
 
 
