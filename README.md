@@ -17,6 +17,12 @@
 - [WebDriver and Appium clients](https://github.com/lana-20/webdriver-appium-clients)
 - [Appium Drivers](https://github.com/lana-20/appium-drivers)
 
+### Installation and Setup
+
+- [Java Setup - TBD]()
+- [Appium Setup - TBD]()
+- [Project Setup - TBD]()
+
 ### Mobile App Automation Using Appium
 
 - [AUT](https://github.com/cloudgrey-io/the-app/releases)
