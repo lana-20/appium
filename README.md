@@ -24,7 +24,7 @@
 
 ### Mobile App Automation Using Appium
 
-- [AUT1 - The App](https://github.com/cloudgrey-io/the-app/releases), [AUT2 - NativeDemoApp](https://github.com/webdriverio/native-demo-app/releases), [AUT3 - VodQA](https://github.com/AppiumTestDistribution/appium-demo/blob/main/VodQA.apk)
+- [AUT1 - The App](https://github.com/cloudgrey-io/the-app/releases), [AUT2 - NativeDemoApp](https://github.com/webdriverio/native-demo-app/releases), [AUT3 - VodQA - Android](https://github.com/AppiumTestDistribution/appium-demo/blob/main/VodQA.apk), [AUT4 - Proverbial - iOS](https://prod-mobile-artefacts.lambdatest.com/assets/docs/proverbial_ios.ipa) and [AUT4 - Proverbial - Android](https://prod-mobile-artefacts.lambdatest.com/assets/docs/proverbial_android.apk)
 - [Types of Mobile Apps](https://github.com/lana-20/mobile-app-types)
 - [Configuring and Launching Mobile Sessions](https://github.com/lana-20/configure-launch-mobile-sessions)
 - [Element Discovery](https://github.com/lana-20/appium-element-discovery)
